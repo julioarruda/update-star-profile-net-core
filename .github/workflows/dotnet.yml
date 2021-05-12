@@ -28,5 +28,5 @@ jobs:
       shell: pwsh
       run: |
         cd ${{ github.workspace }}/update
-        .\updateStar ${{ secrets.TOKEN }}  
+        .\updateStar ${{ secrets.TOKEN }} ${{ secrets.API_URL }}  
       
