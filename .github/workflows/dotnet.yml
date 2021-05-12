@@ -2,6 +2,8 @@ name: UpdateVideos
 
 on:
   workflow_dispatch:
+  schedule:
+  - cron: "0 0 * * *"
     
 
 jobs:
@@ -26,6 +28,5 @@ jobs:
       shell: pwsh
       run: |
         cd ${{ github.workspace }}/update
-        ls
         .\updateStar ${{ secrets.TOKEN }}  
       
