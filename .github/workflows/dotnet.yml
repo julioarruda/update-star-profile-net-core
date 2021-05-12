@@ -26,5 +26,6 @@ jobs:
       shell: pwsh
       run: |
         cd ${{ github.workspace }}/update
+        ls
         .\updateStar.exe ${{ secrets.TOKEN }}  
       
