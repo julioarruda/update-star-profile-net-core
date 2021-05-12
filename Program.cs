@@ -18,11 +18,11 @@ namespace test
             Console.WriteLine("==================Atualização Perfil GitHub Star==========================");
             post post1 = GetYoutubeVideo();
 
-            bool validacao = validaUrl(post1.post_url,args[0]);
+            bool validacao = validaUrl(post1.post_url,args[0], args[1] );
 
             if(!validacao)
             {
-                InsertPostStar(args[0], post1);
+                InsertPostStar(args[0], post1,args[1]);
             }
             else
             {
@@ -33,9 +33,9 @@ namespace test
 
         }
 
-        static bool validaUrl (string url, string token)
+        static bool validaUrl (string url, string token, string api_url)
         {
-            var client = new RestClient("https://github-stars-api.herokuapp.com");
+            var client = new RestClient(api_url);
             client.Timeout = -1;
             var request = new RestRequest(Method.POST);
             request.AddHeader("Authorization", "Bearer "+ token);
@@ -69,9 +69,9 @@ namespace test
             return post1;
         }
 
-        static void InsertPostStar(string token, post post)
+        static void InsertPostStar(string token, post post, string api_url)
         {
-            var client = new RestClient("https://github-stars-api.herokuapp.com");
+            var client = new RestClient(api_url);
             client.Timeout = -1;
             var request = new RestRequest(Method.POST);
             request.AddHeader("Authorization", "Bearer "+ token);
