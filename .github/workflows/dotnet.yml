@@ -19,4 +19,7 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --no-restore --configuration Release
-    - run: ls
+    
+    - name: Dotnet Publish
+      run: dotnet publish --configuration Release -o ${{ github.workspace }}/update 
+    - run: ls ${{ github.workspace }}/update 
