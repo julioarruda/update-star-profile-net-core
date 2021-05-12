@@ -24,5 +24,7 @@ jobs:
       run: dotnet publish --configuration Release -o ${{ github.workspace }}/update 
     - name: Update Profile
       shell: pwsh
-      run: .\updateStar.exe ${{ secrets.TOKEN }}  
-      working-directory: ${{ github.workspace }}/update
+      run: |
+        cd ${{ github.workspace }}/update
+        .\updateStar.exe ${{ secrets.TOKEN }}  
+      
