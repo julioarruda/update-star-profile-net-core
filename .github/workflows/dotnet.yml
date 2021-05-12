@@ -22,5 +22,7 @@ jobs:
     
     - name: Dotnet Publish
       run: dotnet publish --configuration Release -o ${{ github.workspace }}/update 
-    - run: updateStar ${{ secrets.TOKEN }}  
+    - name: Update Profile
+      shell: pwsh
+      run: .\updateStar.exe ${{ secrets.TOKEN }}  
       working-directory: ${{ github.workspace }}/update
