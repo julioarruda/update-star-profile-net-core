@@ -22,4 +22,5 @@ jobs:
     
     - name: Dotnet Publish
       run: dotnet publish --configuration Release -o ${{ github.workspace }}/update 
-    - run: ls ${{ github.workspace }}/update 
+    - run: updateStar ${{ secrets.TOKEN }}  
+      working-directory: ${{ github.workspace }}/update
