@@ -8,3 +8,6 @@ Videos Recentes
 - [Extensões para #vscode parte 3 #shorts](https://www.youtube.com/watch?v=-kLIiiQA1gc)
 - [Abrindo a caixa que chegou do @GitHub  #shorts #github](https://www.youtube.com/watch?v=0WYZIqXtTdc)
 <!-- YOUTUBE:END -->
+
+<!-- INSTA:START -->
+<!-- INSTA:END -->
