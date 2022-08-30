@@ -35,4 +35,13 @@ jobs:
         comment_tag_name: YOUTUBE
         feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQzZNPePG3EZMj7Qg3D0Sw"
         committer_email: "julio.arruda@outlook.com"  
+
+    - uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        comment_tag_name: INSTA
+        feed_list: "https://rss.app/feeds/2ZugBAmU73lEDx6J.xml"
+        committer_email: "julio.arruda@outlook.com"  
+        
+        
+        
       
