@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Assinando Commits com Chave SSH | GitHub Mão na Massa](https://www.youtube.com/watch?v=WD92Tg3fobc)
 - [Conhecendo sua conta do GitHub | GitHub Mão na Massa](https://www.youtube.com/watch?v=KZdBdpdfEfE)
 - [Oque é o GitHub e quanto custa usar | GitHub Mão na Massa - Introdução](https://www.youtube.com/watch?v=BOmlyKuy0qw)
 - [CALCULANDO OS CUSTOS DA SUA INFRA | INFRACOST CLOUD](https://www.youtube.com/watch?v=g-FGoQKtanA)
 - [Acesse seu #vscode pela internet #shorts](https://www.youtube.com/watch?v=tXc1rc2_WxY)
-- [Entendendo os comandos do #git #shorts](https://www.youtube.com/watch?v=2HWm5yOQYtM)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
