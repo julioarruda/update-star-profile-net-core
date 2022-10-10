@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Como iniciar um novo repositório Git](https://www.youtube.com/watch?v=mwzbGIl3opk)
 - [Conhecendo seu repositório | GitHub Mão na Massa](https://www.youtube.com/watch?v=ABtv7-QJ2c4)
 - [Participe do #DevOpsExperience](https://www.youtube.com/watch?v=apMAot2LEpM)
 - [Abrindo a Caixa do GitHub | GitHub Stars](https://www.youtube.com/watch?v=oxhJ1v2tvtc)
 - [Seu projeto tem documentação? 😂 #shorts #developer #programação](https://www.youtube.com/watch?v=qm3t9Nu7Psg)
-- [Assinando Commits com Chave SSH | GitHub Mão na Massa](https://www.youtube.com/watch?v=WD92Tg3fobc)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
