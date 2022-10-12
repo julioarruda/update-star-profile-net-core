@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Mostrando pro Git que temos alterações no repositório](https://www.youtube.com/watch?v=GEql1E7As88)
 - [Pets no VSCode](https://www.youtube.com/watch?v=-rVq0yluMfw)
 - [Como iniciar um novo repositório Git](https://www.youtube.com/watch?v=mwzbGIl3opk)
 - [Conhecendo seu repositório | GitHub Mão na Massa](https://www.youtube.com/watch?v=ABtv7-QJ2c4)
 - [Participe do #DevOpsExperience](https://www.youtube.com/watch?v=apMAot2LEpM)
-- [Abrindo a Caixa do GitHub | GitHub Stars](https://www.youtube.com/watch?v=oxhJ1v2tvtc)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
