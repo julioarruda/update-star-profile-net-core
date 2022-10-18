@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Entendendo o Status do repositório Git](https://www.youtube.com/watch?v=_MIsgaaHL8E)
 - [Conhecendo Organizações | GitHub Mão na Massa](https://www.youtube.com/watch?v=tHBV8FuZd6M)
 - [Mostrando pro Git que temos alterações no repositório](https://www.youtube.com/watch?v=GEql1E7As88)
 - [Pets no VSCode](https://www.youtube.com/watch?v=-rVq0yluMfw)
 - [Como iniciar um novo repositório Git](https://www.youtube.com/watch?v=mwzbGIl3opk)
-- [Conhecendo seu repositório | GitHub Mão na Massa](https://www.youtube.com/watch?v=ABtv7-QJ2c4)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
