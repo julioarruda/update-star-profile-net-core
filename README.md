@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [GERENCIANDO DEMANDAS NO @GitHub  | GITHUB MÃO NA MASSA](https://www.youtube.com/watch?v=KR6A8iEorHk)
 - [ARMAZENANDO SUA CHAVE SSH EM UM VAULT | GITHUB MÃO NA MASSA](https://www.youtube.com/watch?v=y7e3ErKNfvU)
 - [Fazendo um commit no repositório Git](https://www.youtube.com/watch?v=DPGj4ferbvU)
 - [Entendendo o Status do repositório Git](https://www.youtube.com/watch?v=_MIsgaaHL8E)
 - [Conhecendo Organizações | GitHub Mão na Massa](https://www.youtube.com/watch?v=tHBV8FuZd6M)
-- [Mostrando pro Git que temos alterações no repositório](https://www.youtube.com/watch?v=GEql1E7As88)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
