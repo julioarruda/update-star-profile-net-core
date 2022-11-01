@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Como ganhar um ingresso para a Campus Party](https://www.youtube.com/watch?v=V5V5Sb_T03Y)
 - [GERENCIANDO DEMANDAS NO @GitHub  | GITHUB MÃO NA MASSA](https://www.youtube.com/watch?v=KR6A8iEorHk)
 - [ARMAZENANDO SUA CHAVE SSH EM UM VAULT | GITHUB MÃO NA MASSA](https://www.youtube.com/watch?v=y7e3ErKNfvU)
 - [Fazendo um commit no repositório Git](https://www.youtube.com/watch?v=DPGj4ferbvU)
 - [Entendendo o Status do repositório Git](https://www.youtube.com/watch?v=_MIsgaaHL8E)
-- [Conhecendo Organizações | GitHub Mão na Massa](https://www.youtube.com/watch?v=tHBV8FuZd6M)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
