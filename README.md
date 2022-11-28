@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Conhecendo o GitHub em São Francisco - Califórnia | GitHub Universe](https://www.youtube.com/watch?v=COGuIxyQV74)
 - [Tudo sobre GitHub Actions | GitHub Mão na Massa](https://www.youtube.com/watch?v=lcuobWOP40Y)
 - [Novidades do GitHub Universe](https://www.youtube.com/watch?v=cdt69anc1sU)
 - [Como ganhar um ingresso para a Campus Party](https://www.youtube.com/watch?v=V5V5Sb_T03Y)
 - [GERENCIANDO DEMANDAS NO @GitHub  | GITHUB MÃO NA MASSA](https://www.youtube.com/watch?v=KR6A8iEorHk)
-- [ARMAZENANDO SUA CHAVE SSH EM UM VAULT | GITHUB MÃO NA MASSA](https://www.youtube.com/watch?v=y7e3ErKNfvU)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
