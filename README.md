@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Oque é o GitHub Packages? | GitHub Mão Na Massa](https://www.youtube.com/watch?v=Ccb91tlx7iw)
 - [SEU VSCODE NO IPAD PELA INTERNET | REMOTE TUNNELS](https://www.youtube.com/watch?v=T9HUeV4ADxQ)
 - [SEUS PIPELINES ESTÃO VULNERÁVEIS??](https://www.youtube.com/watch?v=xFfHoBXdchg)
 - [NOVIDADES NO GITHUB CODESPACES](https://www.youtube.com/watch?v=t6LyOl_cF-s)
 - [Conhecendo o GitHub em São Francisco - Califórnia | GitHub Universe](https://www.youtube.com/watch?v=COGuIxyQV74)
-- [Tudo sobre GitHub Actions | GitHub Mão na Massa](https://www.youtube.com/watch?v=lcuobWOP40Y)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
