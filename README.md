@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Criando sua Conta no Azure e configurando no GitHub | GitHub Mão na Massa](https://www.youtube.com/watch?v=5vvzNWIO4AE)
 - [Você sabe oque é #gitflow ?](https://www.youtube.com/watch?v=TiPGJUIBpCk)
 - [Oque é o GitHub Packages? | GitHub Mão Na Massa](https://www.youtube.com/watch?v=Ccb91tlx7iw)
 - [SEU VSCODE NO IPAD PELA INTERNET | REMOTE TUNNELS](https://www.youtube.com/watch?v=T9HUeV4ADxQ)
 - [SEUS PIPELINES ESTÃO VULNERÁVEIS??](https://www.youtube.com/watch?v=xFfHoBXdchg)
-- [NOVIDADES NO GITHUB CODESPACES](https://www.youtube.com/watch?v=t6LyOl_cF-s)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
