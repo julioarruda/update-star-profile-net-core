@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [REPOSITÓRIOS REMOTOS NO GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=AukXdcB2Rt8)
 - [COMEÇANDO A TRABALHAR COM GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=tT0fmuzvKJ4)
 - [GIT E CONTROLE DE VERSÃO | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=DoQ0HW0OtA0)
 - [Criando sua Conta no Azure e configurando no GitHub | GitHub Mão na Massa](https://www.youtube.com/watch?v=5vvzNWIO4AE)
 - [Você sabe oque é #gitflow ?](https://www.youtube.com/watch?v=TiPGJUIBpCk)
-- [Oque é o GitHub Packages? | GitHub Mão Na Massa](https://www.youtube.com/watch?v=Ccb91tlx7iw)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
