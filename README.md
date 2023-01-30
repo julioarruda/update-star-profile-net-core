@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [JUNTANDO E DESFAZENDO COMMITS | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=3P_PHz10t7g)
 - [REPOSITÓRIOS REMOTOS NO GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=AukXdcB2Rt8)
 - [COMEÇANDO A TRABALHAR COM GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=tT0fmuzvKJ4)
 - [GIT E CONTROLE DE VERSÃO | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=DoQ0HW0OtA0)
 - [Criando sua Conta no Azure e configurando no GitHub | GitHub Mão na Massa](https://www.youtube.com/watch?v=5vvzNWIO4AE)
-- [Você sabe oque é #gitflow ?](https://www.youtube.com/watch?v=TiPGJUIBpCk)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
