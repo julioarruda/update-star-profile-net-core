@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Configurações de Organização no Azure DevOps | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=rF2A2q8fpR8)
 - [Oque é o Azure DevOps? | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=acsTOfNJN3I)
 - [IGNORANDO ARQUIVOS NO GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=Cm-biDiU2cc)
 - [JUNTANDO E DESFAZENDO COMMITS | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=3P_PHz10t7g)
 - [REPOSITÓRIOS REMOTOS NO GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=AukXdcB2Rt8)
-- [COMEÇANDO A TRABALHAR COM GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=tT0fmuzvKJ4)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
