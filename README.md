@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Organizando Tarefas no Azure Boards | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=rurL4Kr1EhI)
 - [Conhecendo o Azure Repos | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=Oix88tEcYLk)
 - [Configurações de Organização no Azure DevOps | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=rF2A2q8fpR8)
 - [Oque é o Azure DevOps? | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=acsTOfNJN3I)
 - [IGNORANDO ARQUIVOS NO GIT | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=Cm-biDiU2cc)
-- [JUNTANDO E DESFAZENDO COMMITS | GIT MÃO NA MASSA](https://www.youtube.com/watch?v=3P_PHz10t7g)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
