@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
-- [ChatGPT no seu VSCode | GitHub Copilot](https://www.youtube.com/watch?v=KaLDxqkIvVo)
-- [Organizando Tarefas no Azure Boards | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=rurL4Kr1EhI)
-- [Conhecendo o Azure Repos | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=Oix88tEcYLk)
-- [Configurações de Organização no Azure DevOps | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=rF2A2q8fpR8)
-- [Oque é o Azure DevOps? | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=acsTOfNJN3I)
+- [Descubra todas as possibilidades do GitHub Copilot com ChatGTP!](https://www.youtube.com/watch?v=KaLDxqkIvVo)
+- [Organize seu trabalho de forma não mecânica - Saiba tudo sobre o Azure Boards!](https://www.youtube.com/watch?v=rurL4Kr1EhI)
+- [Domine o Azure Repos com o Azure DevOps Mão na Massa!](https://www.youtube.com/watch?v=Oix88tEcYLk)
+- [Otimize suas Configurações Organizacionais no Azure DevOps](https://www.youtube.com/watch?v=rF2A2q8fpR8)
+- [Descubra o Azure DevOps: o Passo a Passo para usar o melhor em automação!](https://www.youtube.com/watch?v=acsTOfNJN3I)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
