@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Azure Pipelines: Crie Builds Clássicos e YAML | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=NBguI2LK0xs)
 - [Descubra todas as possibilidades do GitHub Copilot com ChatGTP!](https://www.youtube.com/watch?v=KaLDxqkIvVo)
 - [Organize seu trabalho de forma não mecânica - Saiba tudo sobre o Azure Boards!](https://www.youtube.com/watch?v=rurL4Kr1EhI)
 - [Domine o Azure Repos com o Azure DevOps Mão na Massa!](https://www.youtube.com/watch?v=Oix88tEcYLk)
 - [Otimize suas Configurações Organizacionais no Azure DevOps](https://www.youtube.com/watch?v=rF2A2q8fpR8)
-- [Descubra o Azure DevOps: o Passo a Passo para usar o melhor em automação!](https://www.youtube.com/watch?v=acsTOfNJN3I)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
