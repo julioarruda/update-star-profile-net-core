@@ -12,9 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Start Tracee
-      uses: aquasecurity/tracee-action@v0.3.0-start
-
     - uses: actions/checkout@v2
     - name: Setup .NET
       uses: actions/setup-dotnet@v1
@@ -39,8 +36,6 @@ jobs:
         feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQzZNPePG3EZMj7Qg3D0Sw"
         committer_email: "julio.arruda@outlook.com"
         
-    - name: Stop Tracee
-      uses: aquasecurity/tracee-action@v0.3.0-stop
         
         
       
