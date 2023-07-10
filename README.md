@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Criando seu ChatGPT Privado no Azure](https://www.youtube.com/watch?v=H0MlMZRruIE)
 - [Conversando com seu VSCode | GitHub Copilot](https://www.youtube.com/watch?v=ttfdiURgrgQ)
 - [As IA’s são nossas aliadas no desenvolvimento de software?](https://www.youtube.com/watch?v=obAstVNFMxA)
 - [Colocando uma I.A no seu terminal | GitHub Copiliot X](https://www.youtube.com/watch?v=g6rHgksAQ8c)
 - [Padronizando seus repositórios no GitHub](https://www.youtube.com/watch?v=y8-gNzmjkz0)
-- [Azure Pipelines: Crie Builds Clássicos e YAML | Azure DevOps Mão na Massa](https://www.youtube.com/watch?v=NBguI2LK0xs)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
