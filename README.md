@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Dá pra confiar no GitHub Copilot?](https://www.youtube.com/watch?v=nU2PZIoBd6k)
 - [DEVO DEMITIR QUEM DERRUBA O AMBIENTE??](https://www.youtube.com/watch?v=Yvx-U25aq0g)
 - [PARE DE USAR SENHA NO GITHUB](https://www.youtube.com/watch?v=aezsqluwCyo)
 - [Suas Credenciais seguras no GitHub com 1Password](https://www.youtube.com/watch?v=cWBq-cHnFyw)
 - [Criando seu ChatGPT Privado no Azure](https://www.youtube.com/watch?v=H0MlMZRruIE)
-- [Conversando com seu VSCode | GitHub Copilot](https://www.youtube.com/watch?v=ttfdiURgrgQ)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
