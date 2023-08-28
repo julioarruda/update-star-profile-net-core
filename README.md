@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [IDX o VSCode com IA do Google](https://www.youtube.com/watch?v=5OsuhYUHP-0)
 - [Será o fim do Terraform?](https://www.youtube.com/watch?v=z74-XICKLdY)
 - [GitHub no Gartner 2023](https://www.youtube.com/watch?v=tBeOatFLMOw)
 - [Dá pra confiar no GitHub Copilot?](https://www.youtube.com/watch?v=nU2PZIoBd6k)
 - [DEVO DEMITIR QUEM DERRUBA O AMBIENTE??](https://www.youtube.com/watch?v=Yvx-U25aq0g)
-- [PARE DE USAR SENHA NO GITHUB](https://www.youtube.com/watch?v=aezsqluwCyo)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
