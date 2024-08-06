@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Analyzing Pull Requests with GitHub Copilot](https://www.youtube.com/watch?v=oLkrtUSc53Q)
 - [Analisando Pull Requests com GitHub Copilot](https://www.youtube.com/watch?v=Dbuo8BeF96s)
 - [GitHub Copilot com Super Poderes](https://www.youtube.com/watch?v=Bax68TL8K6Q)
 - [Unlocking the Power of GitHub Copilot: Supercharge Your Project Structure](https://www.youtube.com/watch?v=4r4y2q8ixDo)
 - [Supercharge Your Productivity with GitHub Copilot: Unlocking Hidden Shortcuts](https://www.youtube.com/watch?v=AjTzlYgrUDc)
-- [How to Bootstrap Your First Project: Step-by-Step Guide with GitHub Copilot](https://www.youtube.com/watch?v=jQ2J3qHUFvg)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
