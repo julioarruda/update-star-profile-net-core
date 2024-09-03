@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [Repository Analysis with GitHub Copilot](https://www.youtube.com/watch?v=TzQ3DP11AHQ)
 - [Analisando o Repositório com GitHub Copilot](https://www.youtube.com/watch?v=gCqoY0t0h-A)
 - [Modelos de LLM no GitHub](https://www.youtube.com/watch?v=Zc9cJYNgyY0)
 - [Analyzing Pull Requests with GitHub Copilot](https://www.youtube.com/watch?v=oLkrtUSc53Q)
 - [Analisando Pull Requests com GitHub Copilot](https://www.youtube.com/watch?v=Dbuo8BeF96s)
-- [GitHub Copilot com Super Poderes](https://www.youtube.com/watch?v=Bax68TL8K6Q)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
