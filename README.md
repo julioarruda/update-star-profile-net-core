@@ -2,11 +2,11 @@
 
 Videos Recentes
 <!-- YOUTUBE:START -->
+- [GitHub Copilot Web em todos os planos](https://www.youtube.com/watch?v=4zDPylMfNyA)
 - [LLM`s will be ever hallucinate?](https://www.youtube.com/watch?v=_b_HtFlY3Nc)
 - [As LLM`s vão sempre alucinar?](https://www.youtube.com/watch?v=cWq_dW_933I)
 - [Repository Analysis with GitHub Copilot](https://www.youtube.com/watch?v=TzQ3DP11AHQ)
 - [Analisando o Repositório com GitHub Copilot](https://www.youtube.com/watch?v=gCqoY0t0h-A)
-- [Modelos de LLM no GitHub](https://www.youtube.com/watch?v=Zc9cJYNgyY0)
 <!-- YOUTUBE:END -->
 
 <!-- INSTA:START -->
