@@ -1,0 +1,2284 @@
+[
+  {
+    "user_id": 1001,
+    "process_name": "ldd",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "/bin/bash",
+      "/usr/bin/ldd",
+      "--version"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ldd",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "/bin/bash",
+      "/usr/bin/ldd",
+      "--version"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ldd",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "/bin/bash",
+      "/usr/bin/ldd",
+      "--version"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git-submodule",
+    "binary_path": "/usr/bin/dash",
+    "binary_sha256": "4f291296e89b784cd35479fca606f228126e3641f5bcaee68dee36583d7c9483",
+    "process_args": [
+      "/bin/sh",
+      "/usr/lib/git-core/git-submodule",
+      "foreach",
+      "--recursive",
+      "sh -c \"git config --local --name-only --get-regexp 'core\\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :\""
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git-submodule",
+    "binary_path": "/usr/bin/dash",
+    "binary_sha256": "4f291296e89b784cd35479fca606f228126e3641f5bcaee68dee36583d7c9483",
+    "process_args": [
+      "/bin/sh",
+      "/usr/lib/git-core/git-submodule",
+      "foreach",
+      "--recursive",
+      "sh -c \"git config --local --name-only --get-regexp 'http\\.https\\:\\/\\/github\\.com\\/\\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :\""
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dotnet",
+    "binary_path": "/home/runner/.dotnet/dotnet",
+    "binary_sha256": "ab61666a7e988c774d8dc733da28858da5a31ca2d909d23a0cb1b875d63fd911",
+    "process_args": [
+      "/home/runner/.dotnet/dotnet",
+      "exec",
+      "/home/runner/.dotnet/sdk/3.1.426/Roslyn/bincore/VBCSCompiler.dll",
+      "-pipename:NH47aaQSJoDfqDQwFTCeyLtgL7zXvY8mJhNUT2IxoYo"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "node",
+    "binary_path": "/home/runner/runners/2.303.0/externals/node12/bin/node",
+    "binary_sha256": "fe1df020f051aa322d8bc4b950b6e2250dbcac2e8658081affb9c088fc75b9b7",
+    "process_args": [
+      "/home/runner/runners/2.303.0/externals/node12/bin/node",
+      "/home/runner/work/_actions/actions/checkout/v2/dist/index.js"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "node",
+    "binary_path": "/home/runner/runners/2.303.0/externals/node12/bin/node",
+    "binary_sha256": "fe1df020f051aa322d8bc4b950b6e2250dbcac2e8658081affb9c088fc75b9b7",
+    "process_args": [
+      "/home/runner/runners/2.303.0/externals/node12/bin/node",
+      "/home/runner/work/_actions/actions/setup-dotnet/v1/dist/index.js"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "node",
+    "binary_path": "/home/runner/runners/2.303.0/externals/node16/bin/node",
+    "binary_sha256": "b8d56f907029dfcf1268e56ec145f1f512881f952c594e681f2eaa3ea9d172df",
+    "process_args": [
+      "/home/runner/runners/2.303.0/externals/node16/bin/node",
+      "/home/runner/work/_actions/gautamkrishnar/blog-post-workflow/master/dist/blog-post-workflow.js"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "updateStar",
+    "binary_path": "/home/runner/work/update-star-profile-net-core/update-star-profile-net-core/update/updateStar",
+    "binary_sha256": "62bb2aa5db199c057adbf34b552b23ec9d4d57601bafcc4fda3f5dfe39574518",
+    "process_args": [
+      "/home/runner/work/update-star-profile-net-core/update-star-profile-net-core/update/updateStar",
+      "396f9e11-864c-4cd9-82ed-d269e35aaea8",
+      "https://api-stars.github.com/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "bash",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "/usr/bin/bash",
+      "--noprofile",
+      "--norc",
+      "-e",
+      "-o",
+      "pipefail"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "bash",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "/usr/bin/bash",
+      "-e"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "bash",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "/usr/bin/bash",
+      "-e"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "bash",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "/usr/bin/bash",
+      "-e"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "install-dotnet.",
+    "binary_path": "/usr/bin/env",
+    "binary_sha256": "9b5a2c349d5f54684960e3282e56dadce404ce27bb136bd3b3f6bc18390d4d40",
+    "process_args": [
+      "/usr/bin/env",
+      "bash",
+      "/home/runner/work/_actions/actions/setup-dotnet/v1/externals/install-dotnet.sh",
+      "--version",
+      "3.1.426"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "-c",
+      "protocol.version=2",
+      "fetch",
+      "--no-tags",
+      "--prune",
+      "--progress",
+      "--no-recurse-submodules",
+      "--depth=1",
+      "origin",
+      "+6a7cc6a52295c33cb26989cbb7ab5ad312e076f8:refs/remotes/origin/main"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "checkout",
+      "--progress",
+      "--force",
+      "-B",
+      "main",
+      "refs/remotes/origin/main"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "config",
+      "--global",
+      "--add",
+      "safe.directory",
+      "/home/runner/work/update-star-profile-net-core/update-star-profile-net-core"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "config",
+      "--local",
+      "--name-only",
+      "--get-regexp",
+      "core\\.sshCommand"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "config",
+      "--local",
+      "--name-only",
+      "--get-regexp",
+      "http\\.https\\:\\/\\/github\\.com\\/\\.extraheader"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "config",
+      "--local",
+      "gc.auto",
+      "0"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "config",
+      "--local",
+      "http.https://github.com/.extraheader",
+      "AUTHORIZATION: basic ***"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "init",
+      "/home/runner/work/update-star-profile-net-core/update-star-profile-net-core"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "log",
+      "-1"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "log",
+      "-1",
+      "--format='%H'"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "remote",
+      "add",
+      "origin",
+      "https://github.com/julioarruda/update-star-profile-net-core"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "submodule",
+      "foreach",
+      "--recursive",
+      "sh -c \"git config --local --name-only --get-regexp 'core\\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :\""
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "submodule",
+      "foreach",
+      "--recursive",
+      "sh -c \"git config --local --name-only --get-regexp 'http\\.https\\:\\/\\/github\\.com\\/\\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :\""
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/bin/git",
+      "version"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "pwsh",
+    "binary_path": "/opt/microsoft/powershell/7/pwsh",
+    "binary_sha256": "dc79c1ad141558ef57434983fb0aa65b61d2967f08d115d650f6643fa6adea16",
+    "process_args": [
+      "/usr/bin/pwsh",
+      "-command"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "--shallow-file",
+      "/home/runner/work/update-star-profile-net-core/update-star-profile-net-core/.git/shallow.lock",
+      "rev-list",
+      "--objects",
+      "--stdin",
+      "--quiet",
+      "--alternate-refs"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "--shallow-file",
+      "/home/runner/work/update-star-profile-net-core/update-star-profile-net-core/.git/shallow.lock",
+      "unpack-objects",
+      "--pack_header=2,9"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "fetch",
+      "--update-head-ok"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "maintenance",
+      "run",
+      "--auto",
+      "--no-quiet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "maintenance",
+      "run",
+      "--auto",
+      "--no-quiet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "merge",
+      "--ff-only",
+      "--no-autostash",
+      "FETCH_HEAD"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "merge-base",
+      "--fork-point",
+      "refs/remotes/origin/main",
+      "main"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "remote-https",
+      "origin",
+      "https://github.com/julioarruda/update-star-profile-net-core"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "remote-https",
+      "origin",
+      "https://github.com/julioarruda/update-star-profile-net-core"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "/usr/lib/git-core/git",
+      "rev-list",
+      "--objects",
+      "--stdin",
+      "--not",
+      "--all",
+      "--quiet",
+      "--alternate-refs"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git-remote-http",
+    "binary_path": "/usr/lib/git-core/git-remote-http",
+    "binary_sha256": "1acd2e73cc81fd84e54f7444ff8c268b93559ceca1d3bebbee239817e0a033b5",
+    "process_args": [
+      "/usr/lib/git-core/git-remote-https",
+      "origin",
+      "https://github.com/julioarruda/update-star-profile-net-core"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git-remote-http",
+    "binary_path": "/usr/lib/git-core/git-remote-http",
+    "binary_sha256": "1acd2e73cc81fd84e54f7444ff8c268b93559ceca1d3bebbee239817e0a033b5",
+    "process_args": [
+      "/usr/lib/git-core/git-remote-https",
+      "origin",
+      "https://github.com/julioarruda/update-star-profile-net-core"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "basename",
+    "binary_path": "/usr/bin/basename",
+    "binary_sha256": "aceee0bcbfb3eea45142a59e64ee5dff789d3de539993a7fad37988aa6422614",
+    "process_args": [
+      "basename",
+      "--",
+      "/usr/lib/git-core/git-submodule"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "basename",
+    "binary_path": "/usr/bin/basename",
+    "binary_sha256": "aceee0bcbfb3eea45142a59e64ee5dff789d3de539993a7fad37988aa6422614",
+    "process_args": [
+      "basename",
+      "--",
+      "/usr/lib/git-core/git-submodule"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "basename",
+    "binary_path": "/usr/bin/basename",
+    "binary_sha256": "aceee0bcbfb3eea45142a59e64ee5dff789d3de539993a7fad37988aa6422614",
+    "process_args": [
+      "basename",
+      "/home/runner/.dotnet/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "basename",
+    "binary_path": "/usr/bin/basename",
+    "binary_sha256": "aceee0bcbfb3eea45142a59e64ee5dff789d3de539993a7fad37988aa6422614",
+    "process_args": [
+      "basename",
+      "/home/runner/work/_actions/actions/setup-dotnet/v1/externals/install-dotnet.sh"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "basename",
+    "binary_path": "/usr/bin/basename",
+    "binary_sha256": "aceee0bcbfb3eea45142a59e64ee5dff789d3de539993a7fad37988aa6422614",
+    "process_args": [
+      "basename",
+      "/usr/lib/git-core/git-submodule"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "basename",
+    "binary_path": "/usr/bin/basename",
+    "binary_sha256": "aceee0bcbfb3eea45142a59e64ee5dff789d3de539993a7fad37988aa6422614",
+    "process_args": [
+      "basename",
+      "/usr/lib/git-core/git-submodule"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "bash",
+    "binary_path": "/usr/bin/bash",
+    "binary_sha256": "2c336c63e26881d2f02f34379024e7c314bce572c08cbaa319bacbbec29f93ed",
+    "process_args": [
+      "bash",
+      "/home/runner/work/_actions/actions/setup-dotnet/v1/externals/install-dotnet.sh",
+      "--version",
+      "3.1.426"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cat",
+    "binary_path": "/usr/bin/cat",
+    "binary_sha256": "dd5526c5872cce104a80f4d4e7f787c56ab7686a5b8dedda0ba4e8b36a3c084c",
+    "process_args": [
+      "cat"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cat",
+    "binary_path": "/usr/bin/cat",
+    "binary_sha256": "dd5526c5872cce104a80f4d4e7f787c56ab7686a5b8dedda0ba4e8b36a3c084c",
+    "process_args": [
+      "cat"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/host/fxr/3.1.32/",
+      "/home/runner/.dotnet/host/fxr/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/packs/Microsoft.AspNetCore.App.Ref/3.1.10/",
+      "/home/runner/.dotnet/packs/Microsoft.AspNetCore.App.Ref/3.1.10/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/packs/Microsoft.NETCore.App.Host.linux-x64/3.1.32/",
+      "/home/runner/.dotnet/packs/Microsoft.NETCore.App.Host.linux-x64/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/packs/Microsoft.NETCore.App.Ref/3.1.0/",
+      "/home/runner/.dotnet/packs/Microsoft.NETCore.App.Ref/3.1.0/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/packs/NETStandard.Library.Ref/2.1.0/",
+      "/home/runner/.dotnet/packs/NETStandard.Library.Ref/2.1.0/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/sdk/3.1.426/",
+      "/home/runner/.dotnet/sdk/3.1.426/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/shared/Microsoft.AspNetCore.App/3.1.32/",
+      "/home/runner/.dotnet/shared/Microsoft.AspNetCore.App/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/shared/Microsoft.NETCore.App/3.1.32/",
+      "/home/runner/.dotnet/shared/Microsoft.NETCore.App/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "-n",
+      "/tmp/dotnet.wmUZkWJZS/templates/3.1.33/",
+      "/home/runner/.dotnet/templates/3.1.33/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "/tmp/dotnet.wmUZkWJZS/LICENSE.txt",
+      "/home/runner/.dotnet/LICENSE.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "/tmp/dotnet.wmUZkWJZS/ThirdPartyNotices.txt",
+      "/home/runner/.dotnet/ThirdPartyNotices.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "cp",
+    "binary_path": "/usr/bin/cp",
+    "binary_sha256": "5cbd6e8d5aaa714a0910f5ee7710004cbf0a22c940eda1abec6f0194f430b94c",
+    "process_args": [
+      "cp",
+      "-R",
+      "/tmp/dotnet.wmUZkWJZS/dotnet",
+      "/home/runner/.dotnet/dotnet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "--retry",
+      "20",
+      "--retry-delay",
+      "2",
+      "--connect-timeout",
+      "15",
+      "-sSL",
+      "-f",
+      "--create-dirs",
+      "-o",
+      "/tmp/dotnet.GRzIfgy1d",
+      "https://dotnetcli.azureedge.net/dotnet/Sdk/3.1.426/dotnet-sdk-3.1.426-linux-x64.tar.gz"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetbuilds.azureedge.net/public/Sdk/3.1.426/productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetbuilds.azureedge.net/public/Sdk/3.1.426/productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetbuilds.azureedge.net/public/Sdk/3.1.426/sdk-productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetbuilds.azureedge.net/public/Sdk/3.1.426/sdk-productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetcli.azureedge.net/dotnet/Sdk/3.1.426/productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetcli.azureedge.net/dotnet/Sdk/3.1.426/productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetcli.azureedge.net/dotnet/Sdk/3.1.426/sdk-productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "curl",
+    "binary_path": "/usr/bin/curl",
+    "binary_sha256": "1a54929c2846d7062a8453ebd170cfb4f9dba80eb97edb3d48d68c8db0e5bbcb",
+    "process_args": [
+      "curl",
+      "-s",
+      "--fail",
+      "https://dotnetcli.azureedge.net/dotnet/Sdk/3.1.426/sdk-productVersion.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "/home/runner/.dotnet/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "LICENSE.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "ThirdPartyNotices.txt"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "dotnet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "host/fxr/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "packs/Microsoft.AspNetCore.App.Ref/3.1.10/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "packs/Microsoft.NETCore.App.Host.linux-x64/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "packs/Microsoft.NETCore.App.Ref/3.1.0/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "packs/NETStandard.Library.Ref/2.1.0/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "sdk/3.1.426/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "shared/Microsoft.AspNetCore.App/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "shared/Microsoft.NETCore.App/3.1.32/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dirname",
+    "binary_path": "/usr/bin/dirname",
+    "binary_sha256": "6dcedcb22de79155131e815dd3e957c463ec68e3ce95a783d216146416486ecf",
+    "process_args": [
+      "dirname",
+      "templates/3.1.33/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dotnet",
+    "binary_path": "/home/runner/.dotnet/dotnet",
+    "binary_sha256": "ab61666a7e988c774d8dc733da28858da5a31ca2d909d23a0cb1b875d63fd911",
+    "process_args": [
+      "dotnet",
+      "build",
+      "--no-restore",
+      "--configuration",
+      "Release"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dotnet",
+    "binary_path": "/home/runner/.dotnet/dotnet",
+    "binary_sha256": "ab61666a7e988c774d8dc733da28858da5a31ca2d909d23a0cb1b875d63fd911",
+    "process_args": [
+      "dotnet",
+      "exec",
+      "/home/runner/.dotnet/sdk/3.1.426/MSBuild.dll",
+      "-maxcpucount",
+      "-verbosity:m",
+      "-consoleloggerparameters:Summary",
+      "-property:Configuration=Release",
+      "-distributedlogger:Microsoft.DotNet.Tools.MSBuild.MSBuildLogger,/home/runner/.dotnet/sdk/3.1.426/dotnet.dll*Microsoft.DotNet.Tools.MSBuild.MSBuildForwardingLogger,/home/runner/.dotnet/sdk/3.1.426/dotnet.dll"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dotnet",
+    "binary_path": "/home/runner/.dotnet/dotnet",
+    "binary_sha256": "ab61666a7e988c774d8dc733da28858da5a31ca2d909d23a0cb1b875d63fd911",
+    "process_args": [
+      "dotnet",
+      "exec",
+      "/home/runner/.dotnet/sdk/3.1.426/MSBuild.dll",
+      "-maxcpucount",
+      "-verbosity:m",
+      "-nologo",
+      "-target:Restore",
+      "-distributedlogger:Microsoft.DotNet.Tools.MSBuild.MSBuildLogger,/home/runner/.dotnet/sdk/3.1.426/dotnet.dll*Microsoft.DotNet.Tools.MSBuild.MSBuildForwardingLogger,/home/runner/.dotnet/sdk/3.1.426/dotnet.dll"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dotnet",
+    "binary_path": "/home/runner/.dotnet/dotnet",
+    "binary_sha256": "ab61666a7e988c774d8dc733da28858da5a31ca2d909d23a0cb1b875d63fd911",
+    "process_args": [
+      "dotnet",
+      "exec",
+      "/home/runner/.dotnet/sdk/3.1.426/MSBuild.dll",
+      "-maxcpucount",
+      "-verbosity:m",
+      "-restore",
+      "-target:Publish",
+      "-property:Configuration=Release",
+      "-property:PublishDir=/home/runner/work/update-star-profile-net-core/update-star-profile-net-core/update",
+      "-distributedlogger:Microsoft.DotNet.Tools.MSBuild.MSBuildLogger,/home/runner/.dotnet/sdk/3.1.426/dotnet.dll*Microsoft.DotNet.Tools.MSBuild.MSBuildForwardingLogger,/home/runner/.dotnet/sdk/3.1.426/dotnet.dll"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dotnet",
+    "binary_path": "/home/runner/.dotnet/dotnet",
+    "binary_sha256": "ab61666a7e988c774d8dc733da28858da5a31ca2d909d23a0cb1b875d63fd911",
+    "process_args": [
+      "dotnet",
+      "publish",
+      "--configuration",
+      "Release",
+      "-o",
+      "/home/runner/work/update-star-profile-net-core/update-star-profile-net-core/update"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "dotnet",
+    "binary_path": "/home/runner/.dotnet/dotnet",
+    "binary_sha256": "ab61666a7e988c774d8dc733da28858da5a31ca2d909d23a0cb1b875d63fd911",
+    "process_args": [
+      "dotnet",
+      "restore"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "envsubst",
+    "binary_path": "/usr/bin/envsubst",
+    "binary_sha256": "e36475c42d1ceba9b0500f6b382ccc979ff5b51c5c4d7162fb5b69039d9c50f8",
+    "process_args": [
+      "envsubst",
+      "--variables",
+      "usage: $dashless $USAGE"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "envsubst",
+    "binary_path": "/usr/bin/envsubst",
+    "binary_sha256": "e36475c42d1ceba9b0500f6b382ccc979ff5b51c5c4d7162fb5b69039d9c50f8",
+    "process_args": [
+      "envsubst",
+      "--variables",
+      "usage: $dashless $USAGE"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "envsubst",
+    "binary_path": "/usr/bin/envsubst",
+    "binary_sha256": "e36475c42d1ceba9b0500f6b382ccc979ff5b51c5c4d7162fb5b69039d9c50f8",
+    "process_args": [
+      "envsubst",
+      "usage: $dashless $USAGE"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "envsubst",
+    "binary_path": "/usr/bin/envsubst",
+    "binary_sha256": "e36475c42d1ceba9b0500f6b382ccc979ff5b51c5c4d7162fb5b69039d9c50f8",
+    "process_args": [
+      "envsubst",
+      "usage: $dashless $USAGE"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "find",
+    "binary_path": "/usr/bin/find",
+    "binary_sha256": "791b89c8bffb8101fd7d4d212b80af66a2332834b05a42721104eb47e8fa2eb1",
+    "process_args": [
+      "find",
+      "/tmp/dotnet.wmUZkWJZS",
+      "-type",
+      "f"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "find",
+    "binary_path": "/usr/bin/find",
+    "binary_sha256": "791b89c8bffb8101fd7d4d212b80af66a2332834b05a42721104eb47e8fa2eb1",
+    "process_args": [
+      "find",
+      "/tmp/dotnet.wmUZkWJZS",
+      "-type",
+      "f"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "gettext",
+    "binary_path": "/usr/bin/gettext",
+    "binary_sha256": "66d637b876c3bb6340ae659aeee7611d6b8d9cc5418c326f12de59bb8a61c9be",
+    "process_args": [
+      "gettext",
+      "usage: $dashless $USAGE"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "gettext",
+    "binary_path": "/usr/bin/gettext",
+    "binary_sha256": "66d637b876c3bb6340ae659aeee7611d6b8d9cc5418c326f12de59bb8a61c9be",
+    "process_args": [
+      "gettext",
+      "usage: $dashless $USAGE"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "--exec-path"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "--exec-path"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "--no-pager",
+      "log",
+      "-1",
+      "--format=%ct"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "config",
+      "pull.rebase",
+      "true"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/bin/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "pull"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--git-dir"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--git-dir"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--git-path",
+      "objects"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--git-path",
+      "objects"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--is-inside-work-tree"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--is-inside-work-tree"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--show-prefix"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--show-prefix"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--show-toplevel"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "rev-parse",
+      "--show-toplevel"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "submodule--helper",
+      "foreach",
+      "--recursive",
+      "--",
+      "sh -c \"git config --local --name-only --get-regexp 'core\\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :\""
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "git",
+    "binary_path": "/usr/lib/git-core/git",
+    "binary_sha256": "fb880e68e140735746a604b78bfb676fb241853ff88db00423e244e95326e094",
+    "process_args": [
+      "git",
+      "submodule--helper",
+      "foreach",
+      "--recursive",
+      "--",
+      "sh -c \"git config --local --name-only --get-regexp 'http\\.https\\:\\/\\/github\\.com\\/\\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :\""
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "grep",
+    "binary_path": "/usr/bin/grep",
+    "binary_sha256": "73abb4280520053564fd4917286909ba3b054598b32c9cdfaf1d733e0202cc96",
+    "process_args": [
+      "grep",
+      "-Eo",
+      "^.*/[0-9]+\\.[0-9]+[^/]+/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "grep",
+    "binary_path": "/usr/bin/grep",
+    "binary_sha256": "73abb4280520053564fd4917286909ba3b054598b32c9cdfaf1d733e0202cc96",
+    "process_args": [
+      "grep",
+      "-Ev",
+      "^.*/[0-9]+\\.[0-9]+[^/]+/"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "grep",
+    "binary_path": "/usr/bin/grep",
+    "binary_sha256": "73abb4280520053564fd4917286909ba3b054598b32c9cdfaf1d733e0202cc96",
+    "process_args": [
+      "grep",
+      "-q",
+      "musl"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "grep",
+    "binary_path": "/usr/bin/grep",
+    "binary_sha256": "73abb4280520053564fd4917286909ba3b054598b32c9cdfaf1d733e0202cc96",
+    "process_args": [
+      "grep",
+      "-q",
+      "musl"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "grep",
+    "binary_path": "/usr/bin/grep",
+    "binary_sha256": "73abb4280520053564fd4917286909ba3b054598b32c9cdfaf1d733e0202cc96",
+    "process_args": [
+      "grep",
+      "-q",
+      "musl"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "gzip",
+    "binary_path": "/usr/bin/gzip",
+    "binary_sha256": "42c867c6164673bd97329643db4bb513f9de02d5f0a908f768b577b4b47c1d91",
+    "process_args": [
+      "gzip",
+      "-d"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ifconfig",
+    "binary_path": "/usr/sbin/ifconfig",
+    "binary_sha256": "a2d4e3ed877652bfeca41bdb655c811e29bad18b7f0bce2ca1d04292e88db656",
+    "process_args": [
+      "ifconfig",
+      "-a"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 0,
+    "process_name": "killall",
+    "binary_path": "/usr/bin/killall",
+    "binary_sha256": "4527e56d015ec6003c985302ef8b222bf054bff69a4f6c0c782cd089e0aa688c",
+    "process_args": [
+      "killall",
+      "tracee"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.config"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.config/NuGet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.local"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.local/share"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.local/share/NuGet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.nuget"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.nuget/NuGet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "ls",
+    "binary_path": "/usr/bin/ls",
+    "binary_sha256": "8696974df4fc39af88ee23e307139afc533064f976da82172de823c3ad66f444",
+    "process_args": [
+      "ls",
+      "-ld",
+      "/home/runner/.nuget/NuGet/NuGet.Config"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/."
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/."
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/."
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/host/fxr"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/packs/Microsoft.AspNetCore.App.Ref"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/packs/Microsoft.NETCore.App.Host.linux-x64"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/packs/Microsoft.NETCore.App.Ref"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/packs/NETStandard.Library.Ref"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/sdk"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/shared/Microsoft.AspNetCore.App"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/shared/Microsoft.NETCore.App"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mkdir",
+    "binary_path": "/usr/bin/mkdir",
+    "binary_sha256": "9cf8ccbca79d03a4c3f1832165fc633976011a3d35851b8caf981e9a9bb75d94",
+    "process_args": [
+      "mkdir",
+      "-p",
+      "/home/runner/.dotnet/templates"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mktemp",
+    "binary_path": "/usr/bin/mktemp",
+    "binary_sha256": "800a4a0a352f62683657738d2f1750454a0e3ef4d88a7df5033092981504aadf",
+    "process_args": [
+      "mktemp",
+      "-d",
+      "/tmp/dotnet.XXXXXXXXX"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "mktemp",
+    "binary_path": "/usr/bin/mktemp",
+    "binary_sha256": "800a4a0a352f62683657738d2f1750454a0e3ef4d88a7df5033092981504aadf",
+    "process_args": [
+      "mktemp",
+      "/tmp/dotnet.XXXXXXXXX"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "rm",
+    "binary_path": "/usr/bin/rm",
+    "binary_sha256": "905d3966fe3278eba743d732f22e16bc3d374335f9ee0682fff1e10f36d3bc30",
+    "process_args": [
+      "rm",
+      "-f",
+      "/tmp/dotnet.GRzIfgy1d"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "rm",
+    "binary_path": "/usr/bin/rm",
+    "binary_sha256": "905d3966fe3278eba743d732f22e16bc3d374335f9ee0682fff1e10f36d3bc30",
+    "process_args": [
+      "rm",
+      "-rf"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "rm",
+    "binary_path": "/usr/bin/rm",
+    "binary_sha256": "905d3966fe3278eba743d732f22e16bc3d374335f9ee0682fff1e10f36d3bc30",
+    "process_args": [
+      "rm",
+      "-rf",
+      "/tmp/dotnet.wmUZkWJZS"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sed",
+    "binary_path": "/usr/bin/sed",
+    "binary_sha256": "726a35dc0c786da86cff059a10345244a28e6edae8df057139a839e523619ed0",
+    "process_args": [
+      "sed",
+      "-e",
+      "s/-/ /"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sed",
+    "binary_path": "/usr/bin/sed",
+    "binary_sha256": "726a35dc0c786da86cff059a10345244a28e6edae8df057139a839e523619ed0",
+    "process_args": [
+      "sed",
+      "-e",
+      "s/-/ /"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sed",
+    "binary_path": "/usr/bin/sed",
+    "binary_sha256": "726a35dc0c786da86cff059a10345244a28e6edae8df057139a839e523619ed0",
+    "process_args": [
+      "sed",
+      "-e",
+      "s/-/ /"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sed",
+    "binary_path": "/usr/bin/sed",
+    "binary_sha256": "726a35dc0c786da86cff059a10345244a28e6edae8df057139a839e523619ed0",
+    "process_args": [
+      "sed",
+      "-e",
+      "s/-/ /"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sed",
+    "binary_path": "/usr/bin/sed",
+    "binary_sha256": "726a35dc0c786da86cff059a10345244a28e6edae8df057139a839e523619ed0",
+    "process_args": [
+      "sed",
+      "-e",
+      "s/-/_/g"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sed",
+    "binary_path": "/usr/bin/sed",
+    "binary_sha256": "726a35dc0c786da86cff059a10345244a28e6edae8df057139a839e523619ed0",
+    "process_args": [
+      "sed",
+      "-e",
+      "s/-/_/g"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sh",
+    "binary_path": "/usr/bin/dash",
+    "binary_sha256": "4f291296e89b784cd35479fca606f228126e3641f5bcaee68dee36583d7c9483",
+    "process_args": [
+      "sh",
+      "-c",
+      "umask"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sort",
+    "binary_path": "/usr/bin/sort",
+    "binary_sha256": "eff1afb291f6cd1216f019d6080f6c8fce82e6c58aa7edd0098a3dc507fbc091",
+    "process_args": [
+      "sort"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "sudo",
+    "binary_path": "/usr/bin/sudo",
+    "binary_sha256": "49278c0ebbc089cc04cfa6136a8011519fbaca9d99106443212e43c2141a7ff9",
+    "process_args": [
+      "sudo",
+      "killall",
+      "tracee"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tar",
+    "binary_path": "/usr/bin/tar",
+    "binary_sha256": "8fb2650a41315fe9045401dc7d511f7134a1d7e5573032ac2dbcb144a5b7b13a",
+    "process_args": [
+      "tar",
+      "-xzf",
+      "/tmp/dotnet.GRzIfgy1d",
+      "-C",
+      "/tmp/dotnet.wmUZkWJZS"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "tr",
+    "binary_path": "/usr/bin/tr",
+    "binary_sha256": "f8c7a84aaaaf5b838dbc0532647603a3f95448e5dc3b23a17c9530f2205077c2",
+    "process_args": [
+      "tr",
+      "[:upper:]",
+      "[:lower:]"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-m"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-m"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-m"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-m"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-m"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-m"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-m"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-s"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uname",
+    "binary_path": "/usr/bin/uname",
+    "binary_sha256": "0825c62f4e357c1c026c69a05ed129264dc19974849dc33c530e3cc375e1a851",
+    "process_args": [
+      "uname",
+      "-s"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uniq",
+    "binary_path": "/usr/bin/uniq",
+    "binary_sha256": "2b539325facf2fc5b19e0b7a315cdf7fc35175ef59ce7732de8c07892a0eca9f",
+    "process_args": [
+      "uniq"
+    ],
+    "process_env": null
+  },
+  {
+    "user_id": 1001,
+    "process_name": "uniq",
+    "binary_path": "/usr/bin/uniq",
+    "binary_sha256": "2b539325facf2fc5b19e0b7a315cdf7fc35175ef59ce7732de8c07892a0eca9f",
+    "process_args": [
+      "uniq"
+    ],
+    "process_env": null
+  }
+]
